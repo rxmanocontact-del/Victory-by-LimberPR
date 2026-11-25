@@ -1,6 +1,6 @@
 # VIctory fork (work in progress)
 
-## victory-amd
+## victory
 
 This copy is a fork of
 [fxceless/victory-fork](https://github.com/fxceless/victory-fork), itself a fork
