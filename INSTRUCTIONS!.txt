@@ -1,0 +1,18 @@
+
+# 📦 INSTALLATION INSTRUCTIONS | INSTRUCCIONES DE INSTALACIÓN
+
+🇺🇸 **ENGLISH**
+1. Extract all `.zip` files inside the folder.
+2. Once extracted, delete all the original `.zip` files.
+3. Make sure to leave only the extracted folders and files.
+
+✅ That's it! You're ready to go.
+
+---
+
+🇪🇸 **ESPAÑOL**
+1. Extrae todos los archivos `.zip` que se encuentran dentro de la carpeta.
+2. Una vez extraídos, elimina todos los archivos `.zip` originales.
+3. Asegúrate de dejar únicamente las carpetas y archivos extraídos.
+
+✅ ¡Eso es todo! Ya estás listo para comenzar.
